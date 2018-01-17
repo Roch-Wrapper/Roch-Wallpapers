@@ -1,0 +1,17 @@
+Source: roch-wallpapers
+Section: x11
+Priority: optional
+Maintainer: NE Automation <code@neautomation.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.9.5
+
+Package: roch-wallpapers
+Architecture: any
+Provides: roch-wallpapers
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}
+Description: roch Wallpapers
+ The default Wallpapers for Roch.
+  * Roch Backgrounds
+

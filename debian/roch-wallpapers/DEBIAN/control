@@ -1,0 +1,11 @@
+Package: roch-wallpapers
+Version: 0.0.2
+Architecture: amd64
+Maintainer: NE Automation <code@neautomation.com>
+Installed-Size: 450
+Provides: roch-wallpapers
+Section: x11
+Priority: optional
+Description: roch Wallpapers
+ The default Wallpapers for Roch.
+  * Roch Backgrounds
